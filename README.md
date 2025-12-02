@@ -39,7 +39,7 @@ AT文档
 - [关于网卡驱动](src/ubuntu/fix/关于网卡驱动.md)
 - [关于显卡驱动](src/ubuntu/fix/关于显卡驱动.md)
 - [chrome 使用不了搜狗输入法](src/ubuntu/fix/chrome使用不了搜狗输入法.md)
-- [RVIZ 频闪](src/ubuntu/fix/RVIZ 频闪.md)
+- [RVIZ 频闪](src/ubuntu/fix/RVIZ频闪.md)
 - [ubuntu 系统扩容](src/ubuntu/fix/ubuntu系统扩容.md)
 
 ------
